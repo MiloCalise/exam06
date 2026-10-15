@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PORT=4242
-SERVER=./mini_serv
+SERVER=./a.out
 
 # 🔥 Start the server in the background
 $SERVER $PORT &
